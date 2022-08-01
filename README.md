@@ -2,14 +2,15 @@
 
 ## Colors used
 
-![Color palette](ReadmeStuff/color_palette.png)
+### Website
+<img src="ReadmeStuff/color_palette2.PNG" width=300>
 
-* Background
-  * 6b9080
-* Navbar
-  * cce3de
+[Link](https://colorhunt.co/palette/222831393e46fd7014eeeeee) to color palette.
 
-a4c3b2,eaf4f4,f6fff8
+### Chart colors
+<img src="ReadmeStuff/Chart_colors.PNG" width=500>
+
+[Link](https://mycolor.space/?hex=%23FD7014&sub=1) to chart color palette.
 
 ## Available Scripts
 
