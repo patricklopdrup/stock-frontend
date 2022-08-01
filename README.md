@@ -6,10 +6,10 @@
 
 * Background
   * 6b9080
-* Top bar
-  * f6fff8
+* Navbar
+  * cce3de
 
-a4c3b2,cce3de,eaf4f4
+a4c3b2,eaf4f4,f6fff8
 
 ## Available Scripts
 
