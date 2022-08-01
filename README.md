@@ -2,6 +2,8 @@
 
 ## Colors used
 
+![Color palette](ReadmeStuff/color_palette.png)
+
 * Background
   * 6b9080
 * Top bar
